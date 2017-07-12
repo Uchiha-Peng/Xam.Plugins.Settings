@@ -1,4 +1,7 @@
+###  Xamarin.Froms 使用Xam.Plugins.Settings保存用户登录信息
+
 1.  项目添加NuGet引用——Xam.Plugin.Settings[在共享项目和各个平台都要引用]
+
 2.  新建Settings.cs,加入如下代码     
 
 
